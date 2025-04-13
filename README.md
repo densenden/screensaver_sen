@@ -16,6 +16,8 @@ A visual tool for internalizing important insights and principles. Each day, a n
 - Automatic slide change every 10 seconds
 - Centered logo with dynamic color adaptation
 - Individual access to specific slides via /slide/:id
+  
+<img width="1304" alt="Screenshot 2025-04-13 at 15 42 48" src="https://github.com/user-attachments/assets/114f6344-90e2-45ce-9678-936d5f18ac1a" />
 
 ## Installation
 
@@ -40,3 +42,5 @@ pip3 install -r requirements.txt
 ```bash
 python3 app.py
 ```
+
+<img width="1337" alt="Screenshot 2025-04-13 at 15 42 36" src="https://github.com/user-attachments/assets/f1ca9c76-47a7-4926-a678-27c03b510e1d" />
