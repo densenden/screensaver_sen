@@ -1,7 +1,7 @@
 # Screensaver Typo - Collection of Learnings
 
 A visual tool for internalizing important insights and principles. Every ten seconds, a new point from a collection of learnings is displayed to promote continuous growth and awareness.
-<img width="1118" alt="Screenshot 2025-04-13 at 15 41 23" src="https://github.com/user-attachments/assets/616900dd-35a2-4461-a5e9-e27d80e86d78" />
+
 <img width="1118" alt="Screenshot 2025-04-13 at 15 41 23" src="https://github.com/user-attachments/assets/f024af37-603e-4ff6-bb05-918d1e4af923" />
 
 (Live website)[https://screensaversen.vercel.app/]
