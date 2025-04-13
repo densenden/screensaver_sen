@@ -1,10 +1,11 @@
-# Screensaver Typo - Collection of Learnings
+# Screensaver Typo - Daily Learnings
 
-A visual tool for internalizing important insights and principles. Every ten seconds, a new point from a collection of learnings is displayed to promote continuous growth and awareness.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-🌐%20Visit%20Now-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://screensaversen.vercel.app/)
+
+A visual tool for internalizing important insights and principles. Each day, a new point from a collection of learnings is displayed to promote continuous growth and awareness.
 
 <img width="1118" alt="Screenshot 2025-04-13 at 15 41 23" src="https://github.com/user-attachments/assets/f024af37-603e-4ff6-bb05-918d1e4af923" />
 
-(Live website)[https://screensaversen.vercel.app/]
 ## Features
 
 - Daily rotation through a collection of insights and principles
@@ -39,30 +40,3 @@ pip3 install -r requirements.txt
 ```bash
 python3 app.py
 ```
-<img width="1337" alt="Screenshot 2025-04-13 at 15 42 36" src="https://github.com/user-attachments/assets/fda5466a-6df1-4cf7-830e-33527fd6ec94" />
-
-The application will be available at http://localhost:5000
-
-## Project Structure
-
-```
-screensaver_sen/
-├── app.py              # Main application
-├── requirements.txt    # Python dependencies
-├── static/            # Static files
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── templates/         # HTML templates
-│   └── screensaver.html
-└── README.md         # This file
-```
-<img width="1304" alt="Screenshot 2025-04-13 at 15 42 48" src="https://github.com/user-attachments/assets/fd630fae-660b-49b2-a7aa-dae2abbfc70a" />
-
-## Purpose
-
-This application serves as a daily reminder and internalization tool for important insights and principles. Through continuous presentation and visually appealing design, the content should be sustainably anchored in consciousness.
-
-## Contributing
-
-Feedback and improvement suggestions are welcome. Feel free to open an issue or pull request. # screensaver_sen
